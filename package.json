@@ -1,6 +1,6 @@
 {
     "name": "@i/fontbook-parser",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "CLI to retrieve and parse Mac Font Book font data",
     "main": "lib/cli.js",
     "bin": {
