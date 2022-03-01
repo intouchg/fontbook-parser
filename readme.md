@@ -1,4 +1,4 @@
-# @i/fontbook-parser
+# @intouchg/fontbook-parser
 
 CLI to retrieve and parse Mac Font Book font data
 

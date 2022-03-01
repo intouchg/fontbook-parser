@@ -1,14 +1,14 @@
 {
-    "name": "@i/fontbook-parser",
-    "version": "0.0.3",
+    "name": "@intouchg/fontbook-parser",
+    "version": "0.1.0",
     "description": "CLI to retrieve and parse Mac Font Book font data",
     "main": "lib/cli.js",
     "bin": {
       "fontbook-parser": "lib/cli.js"
     },
-    "repository": "https://intazdoweb.intouchsol.com/IntouchDesignSystem/IntouchDesignSystem/_git/fontbook-parser",
+    "repository": "https://github.com/intouchg/fontbook-parser",
     "author": "Intouch Group",
-    "license": "UNLICENSED",
+    "license": "MIT",
     "scripts": {},
     "dependencies": {
         "xmldom": "0.3.0"
